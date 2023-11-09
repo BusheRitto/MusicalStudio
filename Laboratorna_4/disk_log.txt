@@ -1,0 +1,16 @@
+лист. 09, 2023 9:40:10 ДП Disk.Disk recordAlbumOnDisk
+INFO: Додано альбом на диск: Пісні
+лист. 09, 2023 9:40:10 ДП Disk.Disk recordAlbumOnDisk
+INFO: Додано альбом на диск: Song
+лист. 09, 2023 9:40:10 ДП Disk.Disk recordAlbumOnDisk
+INFO: Додано альбом на диск: Songs
+лист. 09, 2023 9:40:18 ДП Disk.Disk printRecordedAlbums
+INFO: Доступні альбоми на диску.
+лист. 09, 2023 9:40:31 ДП Disk.Disk printRecordedAlbums
+INFO: Доступні альбоми на диску.
+лист. 09, 2023 9:40:41 ДП Disk.Disk printRecordedAlbums
+INFO: Доступні альбоми на диску.
+лист. 09, 2023 9:41:28 ДП Disk.Disk printRecordedAlbums
+INFO: Доступні альбоми на диску.
+лист. 09, 2023 9:42:11 ДП Disk.Disk printRecordedAlbums
+INFO: Доступні альбоми на диску.
